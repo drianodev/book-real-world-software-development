@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank-transaction-analyzer-simple.iml" filepath="$PROJECT_DIR$/bank-transaction-analyzer-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bank-transaction-analyzer-simple.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bank-transaction-analyzer-simple.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bank-transaction-analyzer-simple.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bank-transaction-analyzer-simple.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-real-world-software-development.iml" filepath="$PROJECT_DIR$/book-real-world-software-development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/document-management-system.iml" filepath="$PROJECT_DIR$/document-management-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/document-management-system.main.iml" filepath="$PROJECT_DIR$/.idea/modules/document-management-system.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/document-management-system.test.iml" filepath="$PROJECT_DIR$/.idea/modules/document-management-system.test.iml" />
+    </modules>
+  </component>
+</project>
