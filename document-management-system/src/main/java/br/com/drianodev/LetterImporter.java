@@ -6,7 +6,7 @@ import java.util.Map;
 
 import static br.com.drianodev.Attributes.*;
 
-public class LetterImporter implements Importer {
+class LetterImporter implements Importer {
 
     private static final String NAME_PREFIX = "Dear ";
 

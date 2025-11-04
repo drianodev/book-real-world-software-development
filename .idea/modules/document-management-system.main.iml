@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../document-management-system/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../document-management-system/src/main/resources" type="java-resource" />
     </content>
-    <orderEntry type="jdk" jdkName="corretto-21" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -9,7 +9,7 @@ import java.util.Map;
 
 import static br.com.drianodev.Attributes.*;
 
-public class ImageImporter implements Importer {
+class ImageImporter implements Importer {
 
     @Override
     public Document importFile(File file) throws IOException {
