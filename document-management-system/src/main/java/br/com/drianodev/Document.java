@@ -6,7 +6,6 @@ public class Document {
 
     private final Map<String, String> attributes;
 
-
     Document(final Map<String, String> attributes) {
         this.attributes = attributes;
     }

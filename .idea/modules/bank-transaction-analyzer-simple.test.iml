@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../bank-transaction-analyzer-simple/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../bank-transaction-analyzer-simple/src/test/resources" type="java-test-resource" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="bank-transaction-analyzer-simple.main" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.10.0" level="project" />

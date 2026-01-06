@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/bank-transaction-analyzer-simple/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/bank-transaction-analyzer-simple/build" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -16,6 +16,10 @@ class TextFile {
     private final Map<String, String> attributes;
     private final List<String> lines;
 
+    Map<String, String> getAttributes() {
+        return attributes;
+    }
+
     TextFile(final File file) throws IOException {
         attributes = new HashMap<>();
         attributes.put(PATH, file.getPath());

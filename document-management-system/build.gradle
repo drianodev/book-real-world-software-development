@@ -10,10 +10,6 @@ repositories {
 }
 
 dependencies {
-    testImplementation platform('org.junit:junit-bom:5.10.0')
-    testImplementation 'org.junit.jupiter:junit-jupiter'
-}
-
-test {
-    useJUnitPlatform()
+    testImplementation 'org.hamcrest:hamcrest:2.2'
+    testImplementation 'junit:junit:4.13.2'
 }
