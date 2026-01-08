@@ -8,6 +8,9 @@
       <module name="document-management-system" target="21" />
       <module name="document-management-system.main" target="21" />
       <module name="document-management-system.test" target="21" />
+      <module name="trading-rules-engine" target="21" />
+      <module name="trading-rules-engine.main" target="21" />
+      <module name="trading-rules-engine.test" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
