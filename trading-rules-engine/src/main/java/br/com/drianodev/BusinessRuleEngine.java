@@ -1,16 +1,23 @@
 package br.com.drianodev;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class BusinessRuleEngine {
 
-    public void addAction(final Action action) {
-        throw new UnsupportedOperationException();
+    private final List<Rule> rules;
+    private final Facts facts;
+
+    public BusinessRuleEngine(Facts facts) {
+        this.facts = facts;
+        this.rules = new ArrayList<>();
     }
 
-    public int count() {
-        throw new UnsupportedOperationException();
+    public void addRule(Rule rule) {
+        this.rules.add(rule);
     }
 
     public void run() {
-        throw new UnsupportedOperationException();
+        this.rules.forEach(rule -> rule.perform(facts));
     }
 }

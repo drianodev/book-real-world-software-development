@@ -2,5 +2,5 @@ package br.com.drianodev;
 
 @FunctionalInterface
 public interface Action {
-    void execute();
+    void execute(Facts facts);
 }
