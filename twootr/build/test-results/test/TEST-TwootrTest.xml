@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwootrTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-07-04T14:32:23.476Z" hostname="alienware" time="1.348">
+  <properties/>
+  <testcase name="shouldNotOtherUsersTwoots()" classname="TwootrTest" time="0.163"/>
+  <testcase name="shouldReceiveReplayOfTwootsAfterLogoff()" classname="TwootrTest" time="0.165"/>
+  <testcase name="shouldFollowValidUser()" classname="TwootrTest" time="0.093"/>
+  <testcase name="shouldNotDeleteFuturePositionTwoots()" classname="TwootrTest" time="0.089"/>
+  <testcase name="shouldBeAbleToAuthenticateUser()" classname="TwootrTest" time="0.089"/>
+  <testcase name="shouldNotFollowInValidUser()" classname="TwootrTest" time="0.091"/>
+  <testcase name="shouldNotRegisterDuplicateUsers()" classname="TwootrTest" time="0.091"/>
+  <testcase name="shouldNotDuplicateFollowValidUser()" classname="TwootrTest" time="0.087"/>
+  <testcase name="shouldNotAuthenticateWithWrongPassword()" classname="TwootrTest" time="0.087"/>
+  <testcase name="shouldDeleteTwoots()" classname="TwootrTest" time="0.146"/>
+  <testcase name="shouldNotReceiveTwootsAfterLogoff()" classname="TwootrTest" time="0.12"/>
+  <testcase name="shouldReceiveTwootsFromFollowedUser()" classname="TwootrTest" time="0.118"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

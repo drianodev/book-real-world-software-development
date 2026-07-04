@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DatabaseUserRepositoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-07-04T14:32:23.287Z" hostname="alienware" time="0.154">
+  <properties/>
+  <testcase name="shouldRecordFollowerRelationships()" classname="DatabaseUserRepositoryTest" time="0.142"/>
+  <testcase name="shouldNotAllowDuplicateUsers()" classname="DatabaseUserRepositoryTest" time="0.002"/>
+  <testcase name="shouldRecordPositionUpdates()" classname="DatabaseUserRepositoryTest" time="0.003"/>
+  <testcase name="shouldLoadSavedUsers()" classname="DatabaseUserRepositoryTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

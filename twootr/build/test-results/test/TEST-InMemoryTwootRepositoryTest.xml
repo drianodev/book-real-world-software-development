@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InMemoryTwootRepositoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-07-04T14:32:23.442Z" hostname="alienware" time="0.003">
+  <properties/>
+  <testcase name="shouldOnlyLoadTwootsFromFollowedUsers()" classname="InMemoryTwootRepositoryTest" time="0.001"/>
+  <testcase name="shouldGetTwootsFromPosition()" classname="InMemoryTwootRepositoryTest" time="0.001"/>
+  <testcase name="shouldDeleteTwootsFromPosition()" classname="InMemoryTwootRepositoryTest" time="0.0"/>
+  <testcase name="shouldLoadTwootsFromPosition()" classname="InMemoryTwootRepositoryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
